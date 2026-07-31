@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Aerospace%20Engineering%20Graduate%20%26%20R%26D%20Researcher%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science%20pipelines.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%231a1b26&colorPattern=%2324283b&linkedin=prashant-kamble272&github=Prashantsk45" alt="Prashant Kamble's Profile Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Aerospace%20Engineering%20Graduate%20and%20R%26amp%3BD%20Researcher%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science%20pipelines.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://prashantsk45.github.io" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Personal+Website&size=square" width="130" alt="Portfolio Website" />
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubpages&subtitle=Personal+Website&size=square" width="130" alt="Portfolio Website" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
@@ -42,8 +42,8 @@
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="mailto:prashantsk.272@gmail.com" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=gmail&subtitle=prashantsk.272@gmail.com&size=square" width="130" alt="Email" />
+        <a href="mailto:Prashantsk.272@gmail.com" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=Prashantsk.272@gmail.com&size=square" width="130" alt="Email" />
         </a>
       </td>
     </tr>
@@ -146,28 +146,55 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <br>
 
-> **Aerospace Engineering Simulation Tools:** 
-> - **CAD/Design:** CATIA V5, SolidWorks, 3DEXPERIENCE
-> - **CFD (Computational Fluid Dynamics):** ANSYS Fluent
-> - **FEA (Finite Element Analysis):** ANSYS Mechanical
-> - **Orbital Analysis:** ANSYS Systems Tool Kit (STK)
+<div align="center">
+  <table style="border-collapse: collapse; border: 1px solid rgba(255,255,255,0.1); width: 80%;">
+    <tr>
+      <td align="center" style="padding: 10px;"><b>CAD &amp; Design</b></td>
+      <td align="center" style="padding: 10px;"><b>CFD &amp; FEA Simulation</b></td>
+      <td align="center" style="padding: 10px;"><b>Orbital Analysis</b></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/CATIA_V5-005686?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA V5" style="margin-bottom: 5px;" /><br/>
+        <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" style="margin-bottom: 5px;" /><br/>
+        <img src="https://img.shields.io/badge/3DEXPERIENCE-005686?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE" />
+      </td>
+      <td align="center" style="padding: 15px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/ANSYS_Fluent-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" style="margin-bottom: 5px;" /><br/>
+        <img src="https://img.shields.io/badge/ANSYS_Mechanical-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Mechanical" />
+      </td>
+      <td align="center" style="padding: 15px; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/ANSYS_STK-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS STK" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <h2 align="center">🚀 Featured R&amp;D Projects &amp; Experience</h2>
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
-* **UAV Structural Optimization:** Re-engineered UAV structures in CATIA and SolidWorks, improving lift-to-drag ratios by **8%** across 5 configurations.
-* **Simulation Cycles:** Conducted **15+ CFD (ANSYS Fluent)** and **FEA (ANSYS Mechanical)** simulations, reducing structural stress concentrations by **12%** under high aerodynamic load limits.
-* **Weight Reduction:** Saved **5%** structural weight through systems integration of electronic/structural subsystems.
+* **UAV Structural Optimization:** Re-engineered UAV wing and fuselage structures in CATIA and SolidWorks, improving lift-to-drag ratios by **8%** across 5 distinct flight configurations.
+* **Simulation Cycles:** Programmed, set up, and ran **15+ CFD (ANSYS Fluent)** and **FEA (ANSYS Mechanical)** simulation cycles, identifying and reducing structural stress concentrations by **12%** under high aerodynamic load limits.
+* **Weight Reduction:** Saved **5%** overall structural weight through systems integration of electronic components directly into load-bearing composite panels.
+
+#### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
+* **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
+* **Ascent Load Cases:** Modeled stress distributions, structural deformation, and joint separation risks under critical ascent pressure loads (up to 4.72 MPa) and high thermal gradients (up to 500°C).
+* **Pretension & Safety Margins:** Evaluated bolt pretension parameters and stress relaxation of Inconel 718 bolts, verifying safety margins against hot-gas leakage.
+* **Open Source Repository:** [Link to FEA Project](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
 
 #### 📊 **SpaceX Falcon 9 Landing Success Prediction**
-* Trained classification models using **scikit-learn** and **TensorFlow** to predict booster reuse landing success with **89% accuracy**.
-* Extracted and preprocessed **18 features** from 90+ historical Falcon 9 launches using SQL and Pandas.
-* Explore the live case study: [Winning Space Race with Data Science](https://prashantsk45.github.io/projects/falcon9_landing_analysis.html)
+* **Machine Learning Pipelines:** Developed and optimized Classification Models (SVM, Decision Trees, KNN, Logistic Regression) using **scikit-learn** and **TensorFlow** to predict booster reuse landing success with **89% accuracy**.
+* **Data Engineering & Wrangling:** Extracted launch data via SpaceX REST API and web-scraped Wikipedia, preprocessing 18 core features (payload mass, launch site, orbit trajectory) using SQL and Pandas.
+* **Interactive Geo-Visualization:** Built a dashboard in **Plotly Dash** and mapped launch sites with success heatmaps in **Folium** to discover key geospatial features affecting booster landings.
+* **Live Case Study:** [Link to Landing Success Case Study](https://prashantsk45.github.io/projects/falcon9_landing_analysis.html)
 
 #### 🌪️ **CFD Airfoil Validation (C++)**
-* Programmed custom **C++ User-Defined Functions (UDFs)** to validate NACA 0012 airfoil aerodynamic drag simulations in ANSYS Fluent to within **3–5%** of experimental wind tunnel results.
+* **Aerodynamic Drag Validation:** Modeled and validated NACA 0012 airfoil drag ($C_D$) and lift ($C_L$) coefficients in ANSYS Fluent to within **3–5%** of experimental NASA wind tunnel data.
+* **C++ UDF Customization:** Programmed custom **C++ User-Defined Functions (UDFs)** to configure boundary-layer turbulence parameters and wall-y+ values under high Reynolds number flows.
+* **Mesh Independence Analysis:** Completed grid convergence index (GCI) studies across structural C-grid meshes, reducing computation time by **20%** while preserving accuracy.
 
 ---
 
@@ -198,15 +225,15 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <h2 align="center">📊 GitHub Activity &amp; Metrics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantsk45&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantsk45&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Prashantsk45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Prashantsk45&theme=tokyonight&cache_seconds=1800&v=1" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
   <img src="https://ghchart.rshah.org/00f0ff/Prashantsk45" alt="Contribution Graph" width="100%" />
-</p>
+</div>
