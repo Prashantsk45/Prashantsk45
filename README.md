@@ -226,14 +226,14 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 <h2 align="center">📊 GitHub Activity &amp; Metrics</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Prashantsk45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800&v=1" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Prashantsk45&theme=tokyonight&cache_seconds=1800&v=1" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Prashantsk45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=60&v=2" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Prashantsk45&theme=tokyonight&cache_seconds=60&count_private=true&v=2" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=60&v=2" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://ghchart.rshah.org/00f0ff/Prashantsk45" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/00f0ff/Prashantsk45?v=2" alt="Contribution Graph" width="100%" />
 </div>
