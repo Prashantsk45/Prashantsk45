@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Aerospace%20Engineering%20Graduate%20and%20R%26amp%3BD%20Researcher%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science%20pipelines.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Founder%20of%20Aeromyne%20%26amp%3B%20Aerospace%20Engineering%20Graduate%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science%20pipelines.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
   </a>
 </div>
 
@@ -178,6 +178,10 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 ---
 
 <h2 align="center">🚀 Featured R&amp;D Projects &amp; Experience</h2>
+
+#### 🏢 **Founder & Director** @ Aeromyne *(Jun 2024 – Present)*
+* **Scientific Computing & Software Services:** Founded and registered an IT software development venture specializing in custom engineering code, data pipelines, and numerical computation tools.
+* **Custom Software Solutions:** Developed specialized scripts and tools for automated file parsing, database management, and profile dashboard metric generation.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
 * **UAV Structural Optimization:** Re-engineered UAV wing and fuselage structures in CATIA and SolidWorks, improving lift-to-drag ratios by **8%** across 5 distinct flight configurations.
