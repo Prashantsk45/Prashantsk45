@@ -1,9 +1,9 @@
 name: Generate Profile Stats
 
-on:
+"on":
   schedule:
-    - cron: '0 0,12 * * *' # Runs twice a day at 12:00 AM and 12:00 PM UTC (5:30 AM/PM IST)
-  workflow_dispatch: # Allows manual run
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
