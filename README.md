@@ -81,7 +81,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
     <tr style="border: none;">
       <!-- Icon Row 1 -->
       <td align="center" style="border: none; padding: 10px;">
-        <a href="certificates/STK_Grandmaster_L3.pdf" target="_blank">
+        <a href="https://github.com/Prashantsk45/Prashantsk45/blob/main/certificates/STK_Grandmaster_L3.pdf" target="_blank">
           <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="height:35px; max-width:100%;" />
         </a>
       </td>
@@ -219,7 +219,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
 * **Conducted 15+ high-fidelity CFD and FEA simulation cycles** (ANSYS Fluent / ANSYS Mechanical), identifying and mitigating structural stress concentrations by **12%** under critical aerodynamic load limits.
 * **Achieved a 5% reduction in overall structural weight** by integrating electronic components directly into load-bearing composite panels, maintaining structural integrity under peak load cases.
-* 📄 **[View Internship Certificate](certificates/INTERNSHIP.pdf)**
+* 📄 **[View Internship Certificate](https://github.com/Prashantsk45/Prashantsk45/blob/main/certificates/INTERNSHIP.pdf)**
 
 #### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
 * **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
