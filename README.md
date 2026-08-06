@@ -83,22 +83,22 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
       <!-- Icon Row -->
       <td align="center" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="width:150px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="https://img.shields.io/badge/CSWP-SolidWorks_Professional-FF4154?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="Certified SolidWorks Professional" style="width:150px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/CSWP-SolidWorks_Professional-FF4154?style=for-the-badge&logo=solidworks&logoColor=white" alt="Certified SolidWorks Professional" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="#">
-          <img src="https://img.shields.io/badge/3DEXPERIENCE-Designer_Associate-8b5cf6?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE Designer Associate" style="width:150px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/3DEXPERIENCE-Designer_Associate-8b5cf6?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE Designer Associate" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE" target="_blank">
-          <img src="https://img.shields.io/badge/IBM_Data_Science-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional" style="width:150px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/IBM_Data_Science-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional" style="height:35px; max-width:100%;" />
         </a>
       </td>
     </tr>
