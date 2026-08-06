@@ -3,41 +3,9 @@
 </p>
 
 <div align="center">
-  <table width="100%" style="background: linear-gradient(135deg, #f0f3ff 0%, #e0e6ff 100%); border-radius: 10px; border-collapse: collapse; border: 1px solid rgba(0,0,0,0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: left;">
-    <tr>
-      <td style="padding: 30px; vertical-align: middle; border: none;">
-        <h1 style="margin: 0; font-size: 2.2rem; color: #1e293b; font-weight: 800; border-bottom: none;">Prashant Kamble</h1>
-        <p style="margin: 15px 0 25px 0; font-size: 1.05rem; color: #475569; line-height: 1.6; max-width: 500px;">
-          Aerospace Engineering Graduate and R&amp;D Researcher specializing in Aircraft Design, CFD, FEA, and Aerospace Data Science pipelines.
-        </p>
-        <!-- Social Icons Row -->
-        <table style="border-collapse: collapse; border: none; margin: 0;">
-          <tr style="border: none;">
-            <td style="border: none; padding: 0 10px 0 0;">
-              <a href="https://instagram.com/itz.joyboy" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-itz.joyboy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
-              </a>
-            </td>
-            <td style="border: none; padding: 0 10px 0 0;">
-              <a href="https://linkedin.com/in/prashant-kamble272" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-prashant--kamble272-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-              </a>
-            </td>
-            <td style="border: none; padding: 0;">
-              <a href="https://github.com/Prashantsk45" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Prashantsk45-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td align="center" width="30%" style="padding: 30px; border: none; vertical-align: middle;">
-        <a href="https://prashantsk45.github.io" target="_blank">
-          <img src="https://github.com/Prashantsk45.png" width="180" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" alt="Prashant Kamble" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://prashantsk45.github.io">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Aerospace%20Engineering%20Graduate%20and%20R%26amp%3BD%20Researcher%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science%20pipelines.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
+  </a>
 </div>
 
 <h1 align="center">Hello &nbsp;<a href="https://prashantsk45.github.io"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38"></a> , I'm Prashant Kamble</h1>
