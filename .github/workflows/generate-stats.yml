@@ -39,6 +39,23 @@ jobs:
         run: |
           git config --global user.name "Prashantsk45"
           git config --global user.email "Prashantsk.272@gmail.com"
-          git add generated/*.svg
-          # Only commit and push if there are changes
-          git diff-index --quiet HEAD || (git commit -m "Auto-update profile statistics" && git pull --rebase origin main && git push origin main)
+          # Loop to handle any simultaneous pushes without merge conflicts
+          for i in {1..5}; do
+            git fetch origin main
+            git reset --hard origin/main
+            python generate_profile_stats.py
+            git add generated/*.svg
+            if git diff-index --quiet HEAD; then
+              echo "No changes to commit."
+              exit 0
+            fi
+            git commit -m "Auto-update profile statistics"
+            if git push origin main; then
+              echo "Push successful!"
+              exit 0
+            fi
+            echo "Conflict or race condition detected. Retrying in 2 seconds..."
+            sleep 2
+          done
+          echo "Failed to push stats card after 5 attempts."
+          exit 1
