@@ -65,7 +65,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I am an Aerospace Engineering graduate and R&D researcher specializing in **Aircraft Design**, **Computational Fluid Dynamics (CFD)**, and **Finite Element Analysis (FEA)**. I have a deep passion for combining aerospace engineering domain expertise with modern data science practices (Python, SQL, Machine Learning) to build safer, more efficient flight structures and propulsion systems. I bridge the gap between physical engineering simulations and predictive data science pipelines to deliver optimal performance.
+I am an Aerospace Engineering graduate and R&D researcher specializing in **Aircraft Design**, **Computational Fluid Dynamics (CFD)**, and **Finite Element Analysis (FEA)**. I have a deep passion for combining aerospace engineering domain expertise with robust **software development** and **data science practices** (Python, C++, SQL, Machine Learning) to build safer, more efficient flight structures and propulsion systems. I bridge the gap between physical engineering simulations, workflow automation, and predictive data science pipelines to deliver optimal performance.
 
 ---
 
