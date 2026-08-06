@@ -179,11 +179,11 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <h2 align="center">🚀 Featured R&amp;D Projects &amp; Experience</h2>
 
-#### 🏢 **Lead Software Engineer & Founder** @ Aeromyne *(Jun 2024 – Present)*
-* **Architected a zero-trust, distributed cloud storage platform** utilizing client-side AES-256 encryption and a custom chunked file-sharding architecture to guarantee absolute data privacy and integrity for engineering clients.
-* **Designed and built a multi-window Web OS interface** using React and Vite, optimizing rendering performance and client-side state synchronization to handle complex hierarchical directory systems seamlessly.
-* **Engineered a high-throughput Node.js streaming proxy** featuring real-time, on-the-fly container remuxing (dual-audio MKV) and dynamic subtitle extraction, achieving sub-second start latency and smooth seeking controls.
-* **Delivered custom scientific computing tools and automated data pipelines** for engineering clients, accelerating numerical analysis and simulation extraction workflows by an estimated **20%**.
+#### 🏢 **Lead R&D Software & Simulation Consultant** @ Aeromyne *(Jun 2024 – Present)*
+* **Architected a secure, zero-trust cloud data platform** featuring client-side AES-256 encryption and chunked file-sharding to safeguard high-confidentiality engineering and CAD design assets for corporate clients.
+* **Designed and built a high-performance Web OS interface** using React and Vite, optimizing rendering performance and state synchronization to handle complex engineering directories and multi-window visualization tools.
+* **Engineered a custom Node.js streaming proxy and telemetry data pipeline** capable of real-time data remuxing and streaming, achieving sub-second latency in rendering live simulation and sensor test data.
+* **Developed custom scientific computing scripts and automated data engineering pipelines** (Python, C++, SQL) to process numerical simulation outputs, reducing client data extraction times by an estimated **20%**.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
 * **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
