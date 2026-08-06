@@ -133,17 +133,19 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
     <tr>
       <td align="center" style="padding: 10px;"><b>Programming Languages</b></td>
       <td align="center" style="padding: 10px;"><b>Data Science &amp; Machine Learning</b></td>
-      <td align="center" style="padding: 10px;"><b>Engineering Simulation &amp; DevOps</b></td>
+      <td align="center" style="padding: 10px;"><b>Software Engineering &amp; DevOps</b></td>
     </tr>
     <tr>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=py,cpp,matlab,mysql" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=py,cpp,matlab,mysql,js" alt="Languages" />
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" alt="DS/ML" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" alt="DS/ML" /><br/>
+        <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash" style="margin-top: 5px;" />
+        <img src="https://img.shields.io/badge/Folium-779A34?style=flat-square&logo=python&logoColor=white" alt="Folium" style="margin-top: 5px;" />
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,git,github,vscode" alt="Software & DevOps" />
       </td>
     </tr>
   </table>
@@ -156,7 +158,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
     <tr>
       <td align="center" style="padding: 10px;"><b>CAD &amp; Design</b></td>
       <td align="center" style="padding: 10px;"><b>CFD &amp; FEA Simulation</b></td>
-      <td align="center" style="padding: 10px;"><b>Orbital Analysis</b></td>
+      <td align="center" style="padding: 10px;"><b>Space Mission &amp; Propulsion</b></td>
     </tr>
     <tr>
       <td align="center" style="padding: 15px; vertical-align: middle;">
@@ -169,7 +171,8 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
         <img src="https://img.shields.io/badge/ANSYS_Mechanical-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Mechanical" />
       </td>
       <td align="center" style="padding: 15px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/ANSYS_STK-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS STK" />
+        <img src="https://img.shields.io/badge/ANSYS_STK-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS STK" style="margin-bottom: 5px;" /><br/>
+        <img src="https://img.shields.io/badge/NASA_CEA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA CEA" />
       </td>
     </tr>
   </table>
