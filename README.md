@@ -186,9 +186,10 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **Delivered custom scientific computing tools and automated data pipelines** for engineering clients, accelerating numerical analysis and simulation extraction workflows by an estimated **20%**.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
-* **UAV Structural Optimization:** Re-engineered UAV wing and fuselage structures in CATIA and SolidWorks, improving lift-to-drag ratios by **8%** across 5 distinct flight configurations.
-* **Simulation Cycles:** Programmed, set up, and ran **15+ CFD (ANSYS Fluent)** and **FEA (ANSYS Mechanical)** simulation cycles, identifying and reducing structural stress concentrations by **12%** under high aerodynamic load limits.
-* **Weight Reduction:** Saved **5%** overall structural weight through systems integration of electronic components directly into load-bearing composite panels.
+* **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
+* **Conducted 15+ high-fidelity CFD and FEA simulation cycles** (ANSYS Fluent / ANSYS Mechanical), identifying and mitigating structural stress concentrations by **12%** under critical aerodynamic load limits.
+* **Achieved a 5% reduction in overall structural weight** by integrating electronic components directly into load-bearing composite panels, maintaining structural integrity under peak load cases.
+* 📄 **[View Internship Certificate](certificates/INTERNSHIP.pdf)**
 
 #### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
 * **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
