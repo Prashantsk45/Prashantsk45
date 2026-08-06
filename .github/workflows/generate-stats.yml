@@ -1,6 +1,9 @@
 name: Generate Profile Stats
 
 "on":
+  push:
+    branches:
+      - main
   repository_dispatch:
     types: [update_stats]
   schedule:
