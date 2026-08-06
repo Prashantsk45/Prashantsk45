@@ -140,9 +140,13 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
         <img src="https://skillicons.dev/icons?i=py,cpp,matlab,mysql,js" alt="Languages" />
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" alt="DS/ML" /><br/>
-        <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash" style="margin-top: 5px;" />
-        <img src="https://img.shields.io/badge/Folium-779A34?style=flat-square&logo=python&logoColor=white" alt="Folium" style="margin-top: 5px;" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="DS/ML" /><br/>
+        <div style="margin-top: 8px;">
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+          <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash" />
+          <img src="https://img.shields.io/badge/Folium-779A34?style=flat-square&logo=python&logoColor=white" alt="Folium" />
+        </div>
       </td>
       <td align="center" style="padding: 15px;">
         <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,git,github,vscode" alt="Software & DevOps" />
