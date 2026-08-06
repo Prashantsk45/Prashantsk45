@@ -36,6 +36,8 @@ jobs:
           python generate_profile_stats.py
 
       - name: Commit and Push Changes
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
           git config --global user.name "Prashantsk45"
           git config --global user.email "Prashantsk.272@gmail.com"
