@@ -1,6 +1,8 @@
 name: Generate Profile Stats
 
 "on":
+  repository_dispatch:
+    types: [update_stats]
   schedule:
     - cron: "0 0,12 * * *"
   workflow_dispatch:
