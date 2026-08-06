@@ -181,6 +181,8 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 #### 🏢 **Lead Software Engineer & Founder** @ Aeromyne *(Jun 2024 – Present)*
 * **Aero Myne Cloud Platform:** Engineered *Aero Myne*, a secure, distributed cloud storage platform featuring client-side AES-256 encryption, chunked file-sharding architectures, and real-time media streaming capabilities.
+* **Desktop-style Web OS Interface:** Designed a desktop-like web user interface using React and Vite, featuring dynamic directory systems, multi-window file navigation, and native file manager tools.
+* **Dynamic Stream Remuxing & Media Streaming:** Programmed a Node.js streaming proxy that performs on-the-fly audio track remuxing (dual-audio MKV), dynamically extracts subtitle tracks, and integrates custom VLC media players for seamless seeking and PGS bitmap subtitle support.
 * **Custom Software Engineering:** Providing custom software development and data engineering services, specializing in scientific computing, numerical analysis tools, and automated pipelines for engineering clients.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
