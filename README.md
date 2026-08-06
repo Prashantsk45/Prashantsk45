@@ -81,7 +81,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
     <tr style="border: none;">
       <!-- Icon Row 1 -->
       <td align="center" style="border: none; padding: 10px;">
-        <a href="certificates/STK_Grandmaster.png" target="_blank">
+        <a href="https://raw.githubusercontent.com/Prashantsk45/Prashantsk45/main/certificates/STK_Grandmaster.png" target="_blank">
           <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="height:35px; max-width:100%;" />
         </a>
       </td>
