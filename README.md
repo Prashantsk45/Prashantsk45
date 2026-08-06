@@ -42,6 +42,11 @@
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
+        <a href="https://instagram.com/itz.joyboy" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fitz.joyboy%2F&subtitle=@itz.joyboy&size=square" width="130" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
         <a href="mailto:Prashantsk.272@gmail.com" target="_blank">
           <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=Prashantsk.272@gmail.com&size=square" width="130" alt="Email" />
         </a>
