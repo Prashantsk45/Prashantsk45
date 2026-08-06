@@ -180,8 +180,8 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 <h2 align="center">🚀 Featured R&amp;D Projects &amp; Experience</h2>
 
 #### 🏢 **Lead Software Engineer & Founder** @ Aeromyne *(Jun 2024 – Present)*
+* **Aero Drive Storage OS:** Designed and developed *Aero Drive*, a desktop-style virtual cloud storage OS that encrypts, shards, and streams media files on-the-fly using a personal Telegram channel backend, featuring Web Crypto AES folder vaults and dynamic video/audio track remuxing.
 * **Scientific Computing & Software Services:** Founded and registered an IT software development venture specializing in custom engineering code, data pipelines, and numerical computation tools.
-* **Custom Software Solutions:** Developed specialized scripts and tools for automated file parsing, database management, and profile dashboard metric generation.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Sep 2025 – Mar 2026)*
 * **UAV Structural Optimization:** Re-engineered UAV wing and fuselage structures in CATIA and SolidWorks, improving lift-to-drag ratios by **8%** across 5 distinct flight configurations.
