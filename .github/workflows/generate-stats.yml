@@ -38,4 +38,4 @@ jobs:
           git config --global user.email "Prashantsk.272@gmail.com"
           git add generated/*.svg
           # Only commit and push if there are changes
-          git diff-index --quiet HEAD || (git commit -m "Auto-update profile statistics" && git push)
+          git diff-index --quiet HEAD || (git commit -m "Auto-update profile statistics" && git pull --rebase origin main && git push origin main)
