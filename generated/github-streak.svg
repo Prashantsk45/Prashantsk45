@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .border { stroke: #1a1b26; stroke-width: 1; }
+    .number { font: 600 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00F0FF; text-anchor: middle; }
+    .label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; text-anchor: middle; }
+    .range { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; text-anchor: middle; }
+  </style>
+  <rect width="493" height="193" x="1" y="1" rx="6" fill="#1a1b26" class="border" />
+  
+  <!-- Total Contributions -->
+  <g transform="translate(82.5, 97.5)">
+    <text y="-10" class="number">2615</text>
+    <text y="15" class="label">Total Contributions</text>
+    <text y="35" class="range">Feb 25, 2024 - Present</text>
+  </g>
+  
+  <line x1="165" y1="40" x2="165" y2="150" stroke="#1f2335" stroke-width="1"/>
+  
+  <!-- Current Streak -->
+  <g transform="translate(247.5, 97.5)">
+    <text y="-10" class="number">4</text>
+    <text y="15" class="label">Current Streak</text>
+    <text y="35" class="range">Aug 06, 2026</text>
+  </g>
+  
+  <line x1="330" y1="40" x2="330" y2="150" stroke="#1f2335" stroke-width="1"/>
+  
+  <!-- Longest Streak -->
+  <g transform="translate(412.5, 97.5)">
+    <text y="-10" class="number">39</text>
+    <text y="15" class="label">Longest Streak</text>
+    <text y="35" class="range">Feb 25, 2024 - Present</text>
+  </g>
+</svg>

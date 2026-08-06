@@ -226,8 +226,8 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 <h2 align="center">📊 GitHub Activity &amp; Metrics</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Prashantsk45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=60&v=2" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Prashantsk45&theme=tokyonight&cache_seconds=60&count_private=true&v=2" alt="GitHub Streak" />
+  <img src="generated/github-stats.svg" alt="GitHub Stats" />
+  <img src="generated/github-streak.svg" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
