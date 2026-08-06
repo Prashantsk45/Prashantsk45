@@ -74,36 +74,30 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 <div align="center">
   <table style="width:100%; table-layout:fixed; border-collapse: collapse; border: none;">
     <colgroup>
-      <col style="width:25%">
-      <col style="width:25%">
-      <col style="width:25%">
-      <col style="width:25%">
+      <col style="width:33.3%">
+      <col style="width:33.3%">
+      <col style="width:33.3%">
     </colgroup>
     <tr style="border: none;">
-      <!-- Icon Row -->
+      <!-- Icon Row 1 -->
       <td align="center" style="border: none; padding: 10px;">
-        <a href="#">
+        <a href="certificates/STK_Grandmaster.png" target="_blank">
           <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="#">
+        <a href="https://www.credly.com/badges/7f015a07-d2fc-44b8-9376-02ddc80226ee/linked_in_profile" target="_blank">
           <img src="https://img.shields.io/badge/CSWP-SolidWorks_Professional-FF4154?style=for-the-badge&logo=solidworks&logoColor=white" alt="Certified SolidWorks Professional" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="#">
+        <a href="https://www.credly.com/badges/3c76f32f-bc15-4385-8828-2b41d4547ad0/linked_in_profile" target="_blank">
           <img src="https://img.shields.io/badge/3DEXPERIENCE-Designer_Associate-8b5cf6?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE Designer Associate" style="height:35px; max-width:100%;" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.coursera.org/account/accomplishments/professional-cert/NF5R8W5J9MDE" target="_blank">
-          <img src="https://img.shields.io/badge/IBM_Data_Science-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional" style="height:35px; max-width:100%;" />
         </a>
       </td>
     </tr>
     <tr style="border: none;">
-      <!-- Text Row -->
+      <!-- Text Row 1 -->
       <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
         🗓️ 2024 <br/>
         <em>Validates advanced orbital mechanics, satellite coverage &amp; link budgets.</em>
@@ -116,9 +110,38 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
         🗓️ 2024 <br/>
         <em>Validates structural design, assembly engineering, and 3D modeling on 3DEXPERIENCE.</em>
       </td>
+    </tr>
+    <tr style="border: none;">
+      <!-- Icon Row 2 -->
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/R45X8DKSPM3S" target="_blank">
+          <img src="https://img.shields.io/badge/IBM_Data_Science-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional" style="height:35px; max-width:100%;" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/YLPXPCVNM2CD" target="_blank">
+          <img src="https://img.shields.io/badge/IBM_Soft_Skills-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM People & Soft Skills" style="height:35px; max-width:100%;" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://www.credly.com/badges/51a9261b-6343-4f71-839a-b4058cc16d5d/linked_in_profile" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Project_Management-Professional_Cert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate" style="height:35px; max-width:100%;" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <!-- Text Row 2 -->
       <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
         🗓️ 2022 <br/>
         <em>IBM certification covering Python, SQL, Data Visualization, and Machine Learning.</em>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
+        🗓️ 2023 <br/>
+        <em>IBM certification covering leadership, professional communication, and teamwork.</em>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
+        🗓️ 2024 <br/>
+        <em>Google certification validating Agile methodologies, project planning, and risk management.</em>
       </td>
     </tr>
   </table>
