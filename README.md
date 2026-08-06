@@ -215,7 +215,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **Engineered a custom Node.js streaming proxy and telemetry data pipeline** capable of real-time data remuxing and streaming, achieving sub-second latency in rendering live simulation and sensor test data.
 * **Developed custom scientific computing scripts and automated data engineering pipelines** (Python, C++, SQL) to process numerical simulation outputs, reducing client data extraction times by an estimated **20%**.
 
-#### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Jun 2024 – Jan 2025)*
+#### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Jun 2024 – Dec 2024)*
 * **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
 * **Conducted 15+ high-fidelity CFD and FEA simulation cycles** (ANSYS Fluent / ANSYS Mechanical), identifying and mitigating structural stress concentrations by **12%** under critical aerodynamic load limits.
 * **Achieved a 5% reduction in overall structural weight** by integrating electronic components directly into load-bearing composite panels, maintaining structural integrity under peak load cases.
