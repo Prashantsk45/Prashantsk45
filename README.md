@@ -119,13 +119,13 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.coursera.org/account/accomplishments/specialization/YLPXPCVNM2CD" target="_blank">
-          <img src="https://img.shields.io/badge/IBM_Soft_Skills-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM People & Soft Skills" style="height:35px; max-width:100%;" />
+        <a href="https://www.credly.com/badges/51a9261b-6343-4f71-839a-b4058cc16d5d/linked_in_profile" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Project_Management-Professional_Cert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate" style="height:35px; max-width:100%;" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.credly.com/badges/51a9261b-6343-4f71-839a-b4058cc16d5d/linked_in_profile" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Project_Management-Professional_Cert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate" style="height:35px; max-width:100%;" />
+        <a href="https://www.coursera.org/account/accomplishments/specialization/YLPXPCVNM2CD" target="_blank">
+          <img src="https://img.shields.io/badge/IBM_Soft_Skills-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM People & Soft Skills" style="height:35px; max-width:100%;" />
         </a>
       </td>
     </tr>
@@ -136,12 +136,12 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
         <em>IBM certification covering Python, SQL, Data Visualization, and Machine Learning.</em>
       </td>
       <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2023 <br/>
-        <em>IBM certification covering leadership, professional communication, and teamwork.</em>
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
         🗓️ 2024 <br/>
         <em>Google certification validating Agile methodologies, project planning, and risk management.</em>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
+        🗓️ 2023 <br/>
+        <em>IBM certification covering leadership, professional communication, and teamwork.</em>
       </td>
     </tr>
   </table>
