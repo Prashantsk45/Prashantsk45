@@ -207,7 +207,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 ---
 
-<h2 align="center">🚀 Featured R&amp;D Projects &amp; Experience</h2>
+<h2 align="center">💼 Professional Experience</h2>
 
 #### 🏢 **Lead R&D Software & Simulation Consultant** @ Aeromyne *(Jan 2025 – Present)*
 * **Architected a secure, zero-trust cloud data platform** featuring client-side AES-256 encryption and chunked file-sharding to safeguard high-confidentiality engineering and CAD design assets for corporate clients.
@@ -220,6 +220,10 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **Conducted 15+ high-fidelity CFD and FEA simulation cycles** (ANSYS Fluent / ANSYS Mechanical), identifying and mitigating structural stress concentrations by **12%** under critical aerodynamic load limits.
 * **Achieved a 5% reduction in overall structural weight** by integrating electronic components directly into load-bearing composite panels, maintaining structural integrity under peak load cases.
 * 📄 **[View Internship Certificate](https://github.com/Prashantsk45/Prashantsk45/blob/main/certificates/INTERNSHIP.pdf)**
+
+---
+
+<h2 align="center">🚀 Engineering Projects &amp; Validation Studies</h2>
 
 #### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
 * **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
