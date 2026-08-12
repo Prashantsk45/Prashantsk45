@@ -287,26 +287,32 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 </div>
 <br/>
 <div align="center">
-  <h3>📊 Language Expertise &amp; Usage</h3>
-  <span style="display: flex; height: 12px; width: 60%; border-radius: 6px; overflow: hidden; margin-bottom: 12px; border: 1px solid rgba(255,255,255,0.1);">
-    <span style="background-color: #3572A5; width: 35%;" title="Python"></span>
-    <span style="background-color: #f1e05a; width: 25%;" title="JavaScript"></span>
-    <span style="background-color: #dea584; width: 15%;" title="Rust"></span>
-    <span style="background-color: #f34b7d; width: 15%;" title="C++ / MATLAB"></span>
-    <span style="background-color: #e34c26; width: 10%;" title="HTML/CSS / SQL"></span>
-  </span>
-</div>
-
-<div align="center">
-  <table style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-    <tr style="border: none;">
-      <td style="padding: 0 10px; border: none;">🔵 <b>Python:</b> 35%</td>
-      <td style="padding: 0 10px; border: none;">🟡 <b>JavaScript:</b> 25%</td>
-      <td style="padding: 0 10px; border: none;">🦀 <b>Rust:</b> 15%</td>
-      <td style="padding: 0 10px; border: none;">🔴 <b>C++ / MATLAB:</b> 15%</td>
-      <td style="padding: 0 10px; border: none;">🟠 <b>HTML/CSS / SQL:</b> 10%</td>
-    </tr>
-  </table>
+  <div style="background-color: #1a1b26; border: 1px solid #24283b; border-radius: 6px; padding: 20px; width: 65%; text-align: center; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #70a5fd; margin-top: 0; margin-bottom: 18px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.15rem; font-weight: 600;">Most Used Languages</h3>
+    
+    <!-- Progress Bar -->
+    <span style="display: flex; height: 10px; border-radius: 5px; overflow: hidden; margin-bottom: 20px; border: 1px solid rgba(255,255,255,0.05); width: 100%;">
+      <span style="background-color: #3572A5; width: 35%;" title="Python"></span>
+      <span style="background-color: #f1e05a; width: 25%;" title="JavaScript"></span>
+      <span style="background-color: #dea584; width: 15%;" title="Rust"></span>
+      <span style="background-color: #f34b7d; width: 15%;" title="C++ / MATLAB"></span>
+      <span style="background-color: #e34c26; width: 10%;" title="HTML/CSS / SQL"></span>
+    </span>
+    
+    <!-- Language List -->
+    <table style="border-collapse: collapse; border: none; width: 100%; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 0.85rem; color: #a9b1d6;">
+      <tr style="border: none;">
+        <td align="left" style="padding: 4px 10px; border: none;">🔵 <b style="color: #ffffff;">Python:</b> 35%</td>
+        <td align="left" style="padding: 4px 10px; border: none;">🟡 <b style="color: #ffffff;">JavaScript:</b> 25%</td>
+        <td align="left" style="padding: 4px 10px; border: none;">🦀 <b style="color: #ffffff;">Rust:</b> 15%</td>
+      </tr>
+      <tr style="border: none;">
+        <td align="left" style="padding: 4px 10px; border: none;">🔴 <b style="color: #ffffff;">C++ / MATLAB:</b> 15%</td>
+        <td align="left" style="padding: 4px 10px; border: none;">🟠 <b style="color: #ffffff;">HTML/CSS / SQL:</b> 10%</td>
+        <td style="border: none;"></td>
+      </tr>
+    </table>
+  </div>
 </div>
 <br/>
 <div align="center">
