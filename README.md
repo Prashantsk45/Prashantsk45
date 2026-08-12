@@ -209,7 +209,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <h2 align="center">💼 Professional Experience</h2>
 
-#### 🏢 **Lead R&D Software & Simulation Consultant** @ Aeromyne *(Jan 2025 – Present)*
+#### 🏢 **Lead R&D Software & Simulation Consultant** @ [Aeromyne](https://aeromyne.com/) *(Jan 2025 – Present)*
 * **Architected a secure, zero-trust cloud data platform** featuring client-side AES-256 encryption and chunked file-sharding to safeguard high-confidentiality engineering and CAD design assets for corporate clients.
 * **Designed and built a high-performance Web OS interface** using React and Vite, optimizing rendering performance and state synchronization to handle complex engineering directories and multi-window visualization tools.
 * **Engineered a custom Node.js streaming proxy and telemetry data pipeline** capable of real-time data remuxing and streaming, achieving sub-second latency in rendering live simulation and sensor test data.
