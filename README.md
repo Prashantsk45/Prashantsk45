@@ -227,7 +227,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 #### 🌀 **CFD Validation of Turbulent Pipe Flow**
 * **Grid Independence & Near-Wall Study:** Validated turbulent pipe flow (Re = 10,000, L/D = 80) in ANSYS Fluent utilizing structured sweep (ANSYS Meshing) and Hexa blocking (ICEM CFD) meshes.
-* **Turbulence Model Evaluation:** Proved the Shear Stress Transport (SST) $k$-$\omega$ model's superior accuracy (within ~5% error of Haaland's correlation) over the Realizable k-ε model (~11% error).
+* **Turbulence Model Evaluation:** Proved the Shear Stress Transport (SST) k-ω model's superior accuracy (within ~5% error of Haaland's correlation) over the Realizable k-ε model (~11% error).
 * **Viscous Sublayer Resolution:** Conducted y+ ≈ 1 vs. y+ ≈ 10 studies, demonstrating that resolving the viscous sublayer directly (first-cell height y = 0.318 mm) is mandatory for capturing near-wall gradients.
 * **Open Source Repository:** [Link to Pipe Flow Validation](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD) | [Read Project PDF](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD/blob/main/Turbulent-pipe-flow.pdf)
 
