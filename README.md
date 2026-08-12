@@ -225,23 +225,6 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <h2 align="center">🚀 Engineering Projects &amp; Validation Studies</h2>
 
-#### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
-* **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
-* **Ascent Load Cases:** Modeled stress distributions, structural deformation, and joint separation risks under critical ascent pressure loads (up to 4.72 MPa) and high thermal gradients (up to 500°C).
-* **Pretension & Safety Margins:** Evaluated bolt pretension parameters and stress relaxation of Inconel 718 bolts, verifying safety margins against hot-gas leakage.
-* **Open Source Repository:** [Link to FEA Project](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
-
-#### 📊 **SpaceX Falcon 9 Landing Success Prediction**
-* **Machine Learning Pipelines:** Developed and optimized Classification Models (SVM, Decision Trees, KNN, Logistic Regression) using **scikit-learn** and **TensorFlow** to predict booster reuse landing success with **89% accuracy**.
-* **Data Engineering & Wrangling:** Extracted launch data via SpaceX REST API and web-scraped Wikipedia, preprocessing 18 core features (payload mass, launch site, orbit trajectory) using SQL and Pandas.
-* **Interactive Geo-Visualization:** Built a dashboard in **Plotly Dash** and mapped launch sites with success heatmaps in **Folium** to discover key geospatial features affecting booster landings.
-* **Live Case Study:** [Link to Landing Success Case Study](https://prashantsk45.github.io/projects/falcon9_landing_analysis.html)
-
-#### 🌪️ **CFD Airfoil Validation (C++)**
-* **Aerodynamic Drag Validation:** Modeled and validated NACA 0012 airfoil drag ($C_D$) and lift ($C_L$) coefficients in ANSYS Fluent to within **3–5%** of experimental NASA wind tunnel data.
-* **C++ UDF Customization:** Programmed custom **C++ User-Defined Functions (UDFs)** to configure boundary-layer turbulence parameters and wall-y+ values under high Reynolds number flows.
-* **Mesh Independence Analysis:** Completed grid convergence index (GCI) studies across structural C-grid meshes, reducing computation time by **20%** while preserving accuracy.
-
 #### 🌀 **CFD Validation of Turbulent Pipe Flow**
 * **Grid Independence & Near-Wall Study:** Validated turbulent pipe flow ($Re = 10,000$, $L/D = 80$) in ANSYS Fluent utilizing structured sweep (ANSYS Meshing) and Hexa blocking (ICEM CFD) meshes.
 * **Turbulence Model Evaluation:** Proved the Shear Stress Transport (SST) $k$-$\omega$ model's superior accuracy (within ~5% error of Haaland's correlation) over the Realizable $k$-$\epsilon$ model (~11% error).
@@ -253,6 +236,18 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **Turbulence Validation vs. NASA PIV:** Compared Spalart-Allmaras (SA) and SST $k$-$\omega$ predictions against NASA Glenn experimental data. SST $k$-$\omega$ predicted shear layer mixing with a MAPE of 12.06% vs. 27.00% for the SA model.
 * **Structured Grid Study:** Established grid independence across coarse, medium, and fine grids, showing SST's extreme robustness (0.73% mean velocity difference between Coarse and Fine grids).
 * **Open Source Repository:** [Link to Nozzle Validation](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD) | [Read Project PDF](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD/blob/master/ARN2-Nozzle.pdf)
+
+#### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
+* **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
+* **Ascent Load Cases:** Modeled stress distributions, structural deformation, and joint separation risks under critical ascent pressure loads (up to 4.72 MPa) and high thermal gradients (up to 500°C).
+* **Pretension & Safety Margins:** Evaluated bolt pretension parameters and stress relaxation of Inconel 718 bolts, verifying safety margins against hot-gas leakage.
+* **Open Source Repository:** [Link to FEA Project](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
+
+#### 📊 **SpaceX Falcon 9 Landing Success Prediction**
+* **Machine Learning Pipelines:** Developed and optimized Classification Models (SVM, Decision Trees, KNN, Logistic Regression) using **scikit-learn** and **TensorFlow** to predict booster reuse landing success with **89% accuracy**.
+* **Data Engineering & Wrangling:** Extracted launch data via SpaceX REST API and web-scraped Wikipedia, preprocessing 18 core features (payload mass, launch site, orbit trajectory) using SQL and Pandas.
+* **Interactive Geo-Visualization:** Built a dashboard in **Plotly Dash** and mapped launch sites with success heatmaps in **Folium** to discover key geospatial features affecting booster landings.
+* **Live Case Study:** [Link to Landing Success Case Study](https://prashantsk45.github.io/projects/falcon9_landing_analysis.html)
 
 ---
 
