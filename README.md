@@ -160,7 +160,7 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
     </tr>
     <tr>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=py,cpp,matlab,mysql,js" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=py,cpp,rust,matlab,mysql,postgres,js,html,css,bash,powershell" alt="Languages" />
       </td>
       <td align="center" style="padding: 15px;">
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="DS/ML" /><br/>
