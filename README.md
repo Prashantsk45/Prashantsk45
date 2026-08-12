@@ -238,6 +238,18 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 * **C++ UDF Customization:** Programmed custom **C++ User-Defined Functions (UDFs)** to configure boundary-layer turbulence parameters and wall-y+ values under high Reynolds number flows.
 * **Mesh Independence Analysis:** Completed grid convergence index (GCI) studies across structural C-grid meshes, reducing computation time by **20%** while preserving accuracy.
 
+#### 🌀 **CFD Validation of Turbulent Pipe Flow**
+* **Grid Independence & Near-Wall Study:** Validated turbulent pipe flow ($Re = 10,000$, $L/D = 80$) in ANSYS Fluent utilizing structured sweep (ANSYS Meshing) and Hexa blocking (ICEM CFD) meshes.
+* **Turbulence Model Evaluation:** Proved the Shear Stress Transport (SST) $k$-$\omega$ model's superior accuracy (within ~5% error of Haaland's correlation) over the Realizable $k$-$\epsilon$ model (~11% error).
+* **Viscous Sublayer Resolution:** Conducted $y^+ \approx 1$ vs. $y^+ \approx 10$ studies, demonstrating that resolving the viscous sublayer directly (first-cell height $y = 0.318\text{ mm}$) is mandatory for capturing near-wall gradients.
+* **Open Source Repository:** [Link to Pipe Flow Validation](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD) | [Read Project PDF](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD/blob/main/Turbulent-pipe-flow.pdf)
+
+#### ✈️ **Compressible Flow Validation in Converging Nozzle (ARN2)**
+* **High-Speed Jet Aerodynamics:** Simulated subsonic jet development ($M_{jet} = 0.51$, $Re_D = 5,601$) from the NASA Glenn Acoustic Reference Nozzle 2 (ARN2) using Fluent's density-based coupled solver.
+* **Turbulence Validation vs. NASA PIV:** Compared Spalart-Allmaras (SA) and SST $k$-$\omega$ predictions against NASA Glenn experimental data. SST $k$-$\omega$ predicted shear layer mixing with a MAPE of 12.06% vs. 27.00% for the SA model.
+* **Structured Grid Study:** Established grid independence across coarse, medium, and fine grids, showing SST's extreme robustness (0.73% mean velocity difference between Coarse and Fine grids).
+* **Open Source Repository:** [Link to Nozzle Validation](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD) | [Read Project PDF](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD/blob/master/ARN2-Nozzle.pdf)
+
 ---
 
 <h2 align="center">📚 R&amp;D Publications</h2>
