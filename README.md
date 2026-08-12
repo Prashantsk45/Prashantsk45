@@ -159,8 +159,11 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
       <td align="center" style="padding: 10px;"><b>Software Engineering &amp; DevOps</b></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=py,cpp,rust,matlab,mysql,postgres,js,html,css,bash,powershell" alt="Languages" />
+      <td align="center" style="padding: 15px; vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=py,cpp,rust,matlab,js" alt="Primary Languages" /><br/>
+        <div style="margin-top: 8px;">
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,bash,powershell" alt="Data & Shell Tools" />
+        </div>
       </td>
       <td align="center" style="padding: 15px;">
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="DS/ML" /><br/>
@@ -284,7 +287,26 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=60&v=2" alt="Top Languages" />
+  <h3>📊 Language Expertise &amp; Usage</h3>
+  <span style="display: flex; height: 12px; width: 60%; border-radius: 6px; overflow: hidden; margin-bottom: 12px; border: 1px solid rgba(255,255,255,0.1);">
+    <span style="background-color: #3572A5; width: 35%;" title="Python"></span>
+    <span style="background-color: #f1e05a; width: 25%;" title="JavaScript"></span>
+    <span style="background-color: #dea584; width: 15%;" title="Rust"></span>
+    <span style="background-color: #f34b7d; width: 15%;" title="C++ / MATLAB"></span>
+    <span style="background-color: #e34c26; width: 10%;" title="HTML/CSS / SQL"></span>
+  </span>
+</div>
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none; margin-bottom: 20px;">
+    <tr style="border: none;">
+      <td style="padding: 0 10px; border: none;">🔵 <b>Python:</b> 35%</td>
+      <td style="padding: 0 10px; border: none;">🟡 <b>JavaScript:</b> 25%</td>
+      <td style="padding: 0 10px; border: none;">🦀 <b>Rust:</b> 15%</td>
+      <td style="padding: 0 10px; border: none;">🔴 <b>C++ / MATLAB:</b> 15%</td>
+      <td style="padding: 0 10px; border: none;">🟠 <b>HTML/CSS / SQL:</b> 10%</td>
+    </tr>
+  </table>
 </div>
 <br/>
 <div align="center">
