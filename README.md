@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20%E2%80%93%20Combustion%20%26%20Propulsion%20at%20Aeromyne,%20specializing%20in%20Reacting%20Flows,%20Turbulence%20Modeling,%20CFD,%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20-%20Combustion%20%26amp%3B%20Propulsion%20at%20Aeromyne,%20specializing%20in%20Reacting%20Flows,%20Turbulence%20Modeling,%20CFD,%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
   </a>
 </div>
 
