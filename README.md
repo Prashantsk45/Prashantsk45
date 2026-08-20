@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=Lead%20R%26amp%3BD%20Software%20%26amp%3B%20Simulation%20Consultant%20at%20Aeromyne,%20specializing%20in%20Aircraft%20Design,%20CFD,%20FEA,%20and%20Aerospace%20Data%20Science.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20%E2%80%93%20Combustion%20%26%20Propulsion%20at%20Aeromyne,%20specializing%20in%20Reacting%20Flows,%20Turbulence%20Modeling,%20CFD,%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
   </a>
 </div>
 
@@ -212,11 +212,12 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 <h2 align="center">💼 Professional Experience</h2>
 
-#### 🏢 **Lead R&D Software & Simulation Consultant** @ [Aeromyne](https://aeromyne.com/) *(Jan 2025 – Present)*
-* **Architected a secure, zero-trust cloud data platform** featuring client-side AES-256 encryption and chunked file-sharding to safeguard high-confidentiality engineering and CAD design assets for corporate clients.
-* **Designed and built a high-performance Web OS interface** using React and Vite, optimizing rendering performance and state synchronization to handle complex engineering directories and multi-window visualization tools.
-* **Engineered a custom Node.js streaming proxy and telemetry data pipeline** capable of real-time data remuxing and streaming, achieving sub-second latency in rendering live simulation and sensor test data.
-* **Developed custom scientific computing scripts and automated data engineering pipelines** (Python, C++, SQL) to process numerical simulation outputs, reducing client data extraction times by an estimated **20%**.
+#### 🏢 **CFD Engineer – Combustion & Propulsion** @ [Aeromyne](https://aeromyne.com/) *(Jan 2025 – Present)*
+* **Reacting Flow & Combustion Simulation:** Developed and validated non-adiabatic, turbulent hydrogen combustion simulation frameworks in ANSYS Fluent, matching benchmark experimental data with peak temperature prediction errors of less than **0.5%**.
+* **Turbulence & Radiative Heat Transfer:** Implemented advanced numerical turbulence and radiative heat transfer models to resolve complex swirling aerodynamics, shear layer mixing, and vortex breakdown in combustor geometries.
+* **Chemical Kinetics & Emissions Minimization:** Architected multi-pathway chemical kinetics solver configurations (incorporating thermal and intermediate reaction routes) to predict and minimize pollutant emissions to sub-ppm levels.
+* **Grid Verification & Quality Assurance:** Generated optimized hybrid grids (hexahedral/tetrahedral) and performed systematic grid verification using the **Grid Convergence Index (GCI)** to guarantee numerical accuracy and grid-independent results.
+* **Technical Documentation & Baselines:** Authored comprehensive technical R&D reports, design specifications, and validation documentation to establish formal numerical baselines for combustor design reviews.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Jun 2024 – Dec 2024)*
 * **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
