@@ -9,7 +9,7 @@
   
   <!-- Total Contributions -->
   <g transform="translate(82.5, 97.5)">
-    <text y="-10" class="number">2807</text>
+    <text y="-10" class="number">2808</text>
     <text y="15" class="label">Total Contributions</text>
     <text y="35" class="range">Feb 25, 2024 - Present</text>
   </g>
@@ -20,7 +20,7 @@
   <g transform="translate(247.5, 97.5)">
     <text y="-10" class="number">24</text>
     <text y="15" class="label">Current Streak</text>
-    <text y="35" class="range">Aug 26, 2026</text>
+    <text y="35" class="range">Aug 27, 2026</text>
   </g>
   
   <line x1="330" y1="40" x2="330" y2="150" stroke="#1f2335" stroke-width="1"/>
