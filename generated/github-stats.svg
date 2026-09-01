@@ -21,7 +21,7 @@
   <g transform="translate(25, 80)">
     <path d="M10.47 4.47a.75.75 0 011.06 0l3 3a.75.75 0 010 1.06l-3 3a.75.75 0 11-1.06-1.06L12.44 9H1.5a.75.75 0 010-1.5h10.94l-1.97-1.97a.75.75 0 010-1.06z" class="icon"/>
     <text x="25" y="12" class="label">Total Commits:</text>
-    <text x="200" y="12" class="stat">2817</text>
+    <text x="200" y="12" class="stat">2819</text>
   </g>
   
   <!-- PRs -->
@@ -42,6 +42,6 @@
   <g transform="translate(25, 155)">
     <path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z" class="icon"/>
     <text x="25" y="12" class="label">Contributed to (last year):</text>
-    <text x="200" y="12" class="stat">2180</text>
+    <text x="200" y="12" class="stat">2183</text>
   </g>
 </svg>
