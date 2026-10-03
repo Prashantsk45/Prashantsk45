@@ -255,24 +255,47 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 ---
 
-<h2 align="center">📚 R&amp;D Publications</h2>
+<h2 align="center">📚 R&amp;D Publications &amp; Preprints</h2>
 
 <div align="center">
   <table style="width:100%; border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🔩 CNT-Rubber Composites for Landing Gear</h3>
-        <i>6th International Conference (RAFAS) | 2025</i><br><br>
-        Synthesized carbon nanotube (CNT) rubber composite shock disks, achieving a <b>25–30% tensile strength gain</b> and improving landing gear material durability by <b>30%</b>.
+        <h3>🔥 3D Pure Hydrogen Aero-Engine Combustor</h3>
+        <i>Open Transport (Under Review — Invited Submission) | 2026</i><br><br>
+        3D CFD investigation of aerothermal holding, flame bifurcation (M-flame to V-flame), wall flashback margins (AFMI &gt; 3.42), and multi-pathway NO<sub>x</sub> kinetics across a flight throttle envelope (&Phi; = 0.55–1.00).
         <br><br>
-        📄 <a href="https://prashantsk45.github.io/papers/CNT_Natural_Rubber_Composites_Landing_Gear.pdf" target="_blank"><b>Read Publication PDF</b></a>
+        📄 <a href="https://arxiv.org/abs/2609.17600" target="_blank"><b>arXiv Preprint</b></a> | 
+        💾 <a href="https://doi.org/10.6084/m9.figshare.33684790" target="_blank"><b>Figshare Dataset</b></a> | 
+        💻 <a href="https://github.com/Prashantsk45/Hydrogen-Aero-Engine-Combustor" target="_blank"><b>Code Repository</b></a>
       </td>
       <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🚀 Additives on Hybrid Rocket Propellant</h3>
-        <i>2nd International Conference (ICAAE) | 2025</i><br><br>
-        Formulated propellant containing NaBH4 and KBH4 metallic additives, increasing specific impulse by <b>10%</b> and mapping performance curves in NASA CEA and MATLAB.
+        <h3>🧠 DA-PINN for 3D Reacting Swirl Combustor</h3>
+        <i>Physical Review Fluids (Under Review) | SSRN Preprint | 2026</i><br><br>
+        Physics-informed neural network (4D Fourier-ResNet) enforcing continuous Favre-RANS momentum and ReLoBRaLo loss balancing, delivering <b>&gt;4,500&times; inference speedup</b> and <b>&gt;7,000&times; data compression</b>.
         <br><br>
-        📄 <a href="https://prashantsk45.github.io/papers/Combustion_Thrust_Hybrid_Rocket_Motors.pdf" target="_blank"><b>Read Publication PDF</b></a>
+        📄 <a href="https://doi.org/10.2139/ssrn.7539041" target="_blank"><b>SSRN Preprint</b></a> | 
+        💾 <a href="https://doi.org/10.6084/m9.figshare.33986668" target="_blank"><b>Figshare Dataset</b></a> | 
+        💻 <a href="https://github.com/Prashantsk45/PINN_NEW" target="_blank"><b>Code Repository</b></a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
+        <h3>🛞 f-MWCNT Natural Rubber Landing Gear Disks</h3>
+        <i>Composite Structures (Elsevier, Under Review) | SSRN Preprint | 2026</i><br><br>
+        Silane-grafted CNT/NR composite shock absorber disks, 3rd-order Yeoh hyperelastic constitutive fitting, and 3D ANSYS explicit drop impact certified under FAA FAR Part 23.725 (3.46 G &le; 3.50 G ceiling).
+        <br><br>
+        📄 <a href="https://doi.org/10.2139/ssrn.7539139" target="_blank"><b>SSRN Preprint</b></a> | 
+        💾 <a href="https://doi.org/10.6084/m9.figshare.33891934" target="_blank"><b>Figshare Dataset</b></a> | 
+        💻 <a href="https://github.com/Prashantsk45/CNT-Rubber-Aircraft-Landing-Gear" target="_blank"><b>Code Repository</b></a>
+      </td>
+      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
+        <h3>🚀 Project Setu: Relativistic Lightsail Architecture</h3>
+        <i>Interstellar Propulsion R&D | Figshare Archive | 2026</i><br><br>
+        3D multi-physics framework coupling 3D Maxwell FDTD wave optics (99.78% reflectance), Stefan-Boltzmann thermal radiation, and non-linear shell FEA under 100 GW laser array for 0.20c relativistic transit.
+        <br><br>
+        💾 <a href="https://doi.org/10.6084/m9.figshare.33476263" target="_blank"><b>Figshare Dataset</b></a> | 
+        💻 <a href="https://github.com/Prashantsk45/Project-Setu-Relativistic-Lightsail" target="_blank"><b>Code Repository</b></a>
       </td>
     </tr>
   </table>
