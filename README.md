@@ -291,9 +291,10 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
       </td>
       <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
         <h3>🚀 Project Setu: Relativistic Lightsail Architecture</h3>
-        <i>Interstellar Propulsion R&D | Figshare Archive | 2026</i><br><br>
+        <i>Interstellar Propulsion R&D | arXiv Preprint | 2026</i><br><br>
         3D multi-physics framework coupling 3D Maxwell FDTD wave optics (99.78% reflectance), Stefan-Boltzmann thermal radiation, and non-linear shell FEA under 100 GW laser array for 0.20c relativistic transit.
         <br><br>
+        📄 <a href="https://arxiv.org/abs/2609.06156" target="_blank"><b>arXiv Preprint</b></a> | 
         💾 <a href="https://doi.org/10.6084/m9.figshare.33476263" target="_blank"><b>Figshare Dataset</b></a> | 
         💻 <a href="https://github.com/Prashantsk45/Project-Setu-Relativistic-Lightsail" target="_blank"><b>Code Repository</b></a>
       </td>
