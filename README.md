@@ -3,9 +3,26 @@
 </p>
 
 <div align="center">
-  <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20%E2%80%93%20Combustion%20%26%20Propulsion%20at%20AeroMyne%2C%20specializing%20in%20Reacting%20Flows%2C%20PINNs%2C%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fraw.githubusercontent.com%2FPrashantsk45%2FPrashantsk45%2Fmain%2Fassets%2Fprashant_profile.jpg&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
-  </a>
+  <table style="border: 1px solid rgba(0, 240, 255, 0.4); border-radius: 12px; background-color: #0d1117; padding: 20px; width: 100%;">
+    <tr>
+      <td align="center" width="28%" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/Prashantsk45/Prashantsk45/main/assets/prashant_profile.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f0ff; object-fit: cover;" alt="Prashant Suresh Kamble" />
+      </td>
+      <td align="left" style="padding-left: 15px; vertical-align: middle;">
+        <h2 style="color: #ffffff; margin: 0 0 5px 0; font-size: 24px;">Prashant Suresh Kamble</h2>
+        <h4 style="color: #00f0ff; margin: 0 0 10px 0; font-size: 15px;">CFD Engineer – Combustion &amp; Propulsion @ AeroMyne</h4>
+        <p style="color: #8b949e; margin: 0 0 12px 0; font-size: 13.5px; line-height: 1.5;">
+          Aerospace Research Engineer specializing in <b>3D Reacting Flow CFD</b>, <b>100% Pure Hydrogen Swirl Combustion</b>, <b>Physics-Informed Neural Networks (DA-PINN)</b>, and <b>Non-Linear Mechanics</b>.
+        </p>
+        <div>
+          <a href="https://prashantsk45.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+          <a href="https://orcid.org/0009-0005-4228-3795" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--4228--3795-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+          <a href="https://arxiv.org/abs/2609.17600" target="_blank"><img src="https://img.shields.io/badge/arXiv-Preprints-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+          <a href="https://linkedin.com/in/prashant-kamble272" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h1 align="center">Hello &nbsp;<a href="https://prashantsk45.github.io"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38"></a> , I'm Prashant Kamble</h1>
