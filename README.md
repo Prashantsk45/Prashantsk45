@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20-%20Combustion%20%26amp%3B%20Propulsion%20at%20Aeromyne,%20specializing%20in%20Reacting%20Flows,%20Turbulence%20Modeling,%20CFD,%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20%E2%80%93%20Combustion%20%26%20Propulsion%20at%20AeroMyne%2C%20specializing%20in%20Reacting%20Flows%2C%20PINNs%2C%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
   </a>
 </div>
 
@@ -12,17 +12,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Aerospace+Data+Scientist;CFD+%26+FEA+R%26D+Researcher;UAV+Structural+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Aerospace+Research+Engineer;CFD+%26+Propulsion+Specialist;Scientific+Machine+Learning+(PINNs)" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  Aerospace Engineer | Data Scientist | R&D Simulation Enthusiast
+  Aerospace Research Engineer | CFD &amp; Scientific Machine Learning Specialist
 </p>
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
+  <p>Discover my research and connect across platforms!</p>
 
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -42,8 +42,8 @@
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://instagram.com/itz.joyboy" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fitz.joyboy%2F&subtitle=@itz.joyboy&size=square" width="130" alt="Instagram" />
+        <a href="https://orcid.org/0009-0005-4228-3795" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siOrcid&subtitle=ORCID+Record&size=square" width="130" alt="ORCID" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
@@ -65,23 +65,23 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I am an Aerospace Engineering graduate and R&D researcher specializing in **Aircraft Design**, **Computational Fluid Dynamics (CFD)**, and **Finite Element Analysis (FEA)**. I have a deep passion for combining aerospace engineering domain expertise with robust **software development** and **data science practices** (Python, C++, SQL, Machine Learning) to build safer, more efficient flight structures and propulsion systems. I bridge the gap between physical engineering simulations, workflow automation, and predictive data science pipelines to deliver optimal performance.
+I am an Aerospace Research Engineer specializing in **reacting flow computational fluid dynamics (CFD)**, **100% pure hydrogen swirl combustion**, **Physics-Informed Neural Networks (DA-PINN)**, and **non-linear hyperelastic structural mechanics**. Demonstrates rigorous expertise in multi-physics solver development, ASME V&amp;V 20 grid verification, and scientific machine learning, supported by 4 first-author peer-reviewed preprints/manuscripts and open-access archived research datasets (Figshare).
 
 ---
 
-<h2 align="center">🎓 Certifications &amp; Professional Badges</h2>
+<h2 align="center">🎓 Certifications &amp; Credentials</h2>
 
 <div align="center">
   <table style="width:100%; table-layout:fixed; border-collapse: collapse; border: none;">
     <colgroup>
-      <col style="width:33.3%">
-      <col style="width:33.3%">
-      <col style="width:33.3%">
+      <col style="width:25%">
+      <col style="width:25%">
+      <col style="width:25%">
+      <col style="width:25%">
     </colgroup>
     <tr style="border: none;">
-      <!-- Icon Row 1 -->
       <td align="center" style="border: none; padding: 10px;">
-        <a href="https://github.com/Prashantsk45/Prashantsk45/blob/main/certificates/STK_Grandmaster_L3.pdf" target="_blank">
+        <a href="https://www.linkedin.com/in/prashant-kamble272/overlay/Certifications/1781750428/treasury/?profileId=ACoAAD6ZaLcB8sqt_cE_9k7sGYacNjSyRWR3Cgc" target="_blank">
           <img src="https://img.shields.io/badge/STK_Grandmaster-ANSYS-00F0FF?style=for-the-badge&logo=ansys&logoColor=white" alt="ANSYS STK Grandmaster" style="height:35px; max-width:100%;" />
         </a>
       </td>
@@ -92,56 +92,27 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://www.credly.com/badges/3c76f32f-bc15-4385-8828-2b41d4547ad0/linked_in_profile" target="_blank">
-          <img src="https://img.shields.io/badge/3DEXPERIENCE-Designer_Associate-8b5cf6?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE Designer Associate" style="height:35px; max-width:100%;" />
+          <img src="https://img.shields.io/badge/3DEXPERIENCE-CATIA_Associate-8b5cf6?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA Associate" style="height:35px; max-width:100%;" />
         </a>
       </td>
-    </tr>
-    <tr style="border: none;">
-      <!-- Text Row 1 -->
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2024 <br/>
-        <em>Validates advanced orbital mechanics, satellite coverage &amp; link budgets.</em>
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2024 <br/>
-        <em>Validates advanced solid modeling, parts, and assembly design configurations.</em>
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2024 <br/>
-        <em>Validates structural design, assembly engineering, and 3D modeling on 3DEXPERIENCE.</em>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <!-- Icon Row 2 -->
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://www.coursera.org/account/accomplishments/specialization/R45X8DKSPM3S" target="_blank">
           <img src="https://img.shields.io/badge/IBM_Data_Science-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional" style="height:35px; max-width:100%;" />
         </a>
       </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.credly.com/badges/51a9261b-6343-4f71-839a-b4058cc16d5d/linked_in_profile" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Project_Management-Professional_Cert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate" style="height:35px; max-width:100%;" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.coursera.org/account/accomplishments/specialization/YLPXPCVNM2CD" target="_blank">
-          <img src="https://img.shields.io/badge/IBM_Soft_Skills-Professional_Cert-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM People & Soft Skills" style="height:35px; max-width:100%;" />
-        </a>
-      </td>
     </tr>
     <tr style="border: none;">
-      <!-- Text Row 2 -->
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2022 <br/>
-        <em>IBM certification covering Python, SQL, Data Visualization, and Machine Learning.</em>
+      <td align="center" valign="top" style="border: none; padding: 5px; color: var(--text-secondary); font-size: 0.85rem;">
+        🗓️ 2024 <br/> <em>ANSYS / AGI Certification</em>
       </td>
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2024 <br/>
-        <em>Google certification validating Agile methodologies, project planning, and risk management.</em>
+      <td align="center" valign="top" style="border: none; padding: 5px; color: var(--text-secondary); font-size: 0.85rem;">
+        🗓️ 2024 <br/> <em>Dassault Systèmes CSWP</em>
       </td>
-      <td align="center" valign="top" style="border: none; padding: 10px; color: var(--text-secondary); font-size: 0.9rem;">
-        🗓️ 2023 <br/>
-        <em>IBM certification covering leadership, professional communication, and teamwork.</em>
+      <td align="center" valign="top" style="border: none; padding: 5px; color: var(--text-secondary); font-size: 0.85rem;">
+        🗓️ 2024 <br/> <em>Dassault Systèmes CATIA</em>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 5px; color: var(--text-secondary); font-size: 0.85rem;">
+        🗓️ 2022 <br/> <em>Coursera / IBM Specialization</em>
       </td>
     </tr>
   </table>
@@ -152,57 +123,28 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 <h2 align="center">🛠️ Technical Toolkit</h2>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: 1px solid rgba(255,255,255,0.1); width: 80%;">
+  <table style="border-collapse: collapse; border: 1px solid rgba(255,255,255,0.1); width: 85%;">
     <tr>
-      <td align="center" style="padding: 10px;"><b>Programming Languages</b></td>
-      <td align="center" style="padding: 10px;"><b>Data Science &amp; Machine Learning</b></td>
-      <td align="center" style="padding: 10px;"><b>Software Engineering &amp; DevOps</b></td>
+      <td align="center" style="padding: 10px;"><b>Programming &amp; SciAI</b></td>
+      <td align="center" style="padding: 10px;"><b>Simulation Solvers (CFD / FEA)</b></td>
+      <td align="center" style="padding: 10px;"><b>CAD &amp; Mesh Generation</b></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px; vertical-align: middle;">
-        <img src="https://skillicons.dev/icons?i=py,cpp,rust,matlab,js" alt="Primary Languages" /><br/>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=py,cpp,matlab" alt="Languages" /><br/>
         <div style="margin-top: 8px;">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,bash,powershell" alt="Data & Shell Tools" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         </div>
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="DS/ML" /><br/>
-        <div style="margin-top: 8px;">
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-          <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly Dash" />
-          <img src="https://img.shields.io/badge/Folium-779A34?style=flat-square&logo=python&logoColor=white" alt="Folium" />
-        </div>
+        <img src="https://img.shields.io/badge/ANSYS_Fluent-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" style="margin-bottom: 4px;" /><br/>
+        <img src="https://img.shields.io/badge/ANSYS_Mechanical-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Mechanical" style="margin-bottom: 4px;" /><br/>
+        <img src="https://img.shields.io/badge/Ansys_Lumerical-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="Ansys Lumerical" />
       </td>
       <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=react,vite,nodejs,docker,git,github,vscode" alt="Software & DevOps" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table style="border-collapse: collapse; border: 1px solid rgba(255,255,255,0.1); width: 80%;">
-    <tr>
-      <td align="center" style="padding: 10px;"><b>CAD &amp; Design</b></td>
-      <td align="center" style="padding: 10px;"><b>CFD &amp; FEA Simulation</b></td>
-      <td align="center" style="padding: 10px;"><b>Space Mission &amp; Propulsion</b></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/CATIA_V5-005686?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA V5" style="margin-bottom: 5px;" /><br/>
-        <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" style="margin-bottom: 5px;" /><br/>
-        <img src="https://img.shields.io/badge/3DEXPERIENCE-005686?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE" />
-      </td>
-      <td align="center" style="padding: 15px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/ANSYS_Fluent-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" style="margin-bottom: 5px;" /><br/>
-        <img src="https://img.shields.io/badge/ANSYS_Mechanical-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Mechanical" />
-      </td>
-      <td align="center" style="padding: 15px; vertical-align: middle;">
-        <img src="https://img.shields.io/badge/ANSYS_STK-FFC20E?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS STK" style="margin-bottom: 5px;" /><br/>
-        <img src="https://img.shields.io/badge/NASA_CEA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA CEA" />
+        <img src="https://img.shields.io/badge/CATIA_V5-005686?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CATIA V5" style="margin-bottom: 4px;" /><br/>
+        <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" style="margin-bottom: 4px;" /><br/>
+        <img src="https://img.shields.io/badge/ICEM_CFD-005686?style=for-the-badge&logo=ansys&logoColor=white" alt="ICEM CFD" />
       </td>
     </tr>
   </table>
@@ -210,109 +152,65 @@ I am an Aerospace Engineering graduate and R&D researcher specializing in **Airc
 
 ---
 
-<h2 align="center">💼 Professional Experience</h2>
+<h2 align="center">📚 Peer-Reviewed Publications &amp; Preprints</h2>
 
-#### 🏢 **CFD Engineer – Combustion & Propulsion** @ [Aeromyne](https://aeromyne.com/) *(Jan 2025 – Present)*
-* **Reacting Flow & Combustion Simulation:** Developed and validated non-adiabatic, turbulent hydrogen combustion simulation frameworks in ANSYS Fluent, matching benchmark experimental data with peak temperature prediction errors of less than **0.5%**.
-* **Turbulence & Radiative Heat Transfer:** Implemented advanced numerical turbulence and radiative heat transfer models to resolve complex swirling aerodynamics, shear layer mixing, and vortex breakdown in combustor geometries.
-* **Chemical Kinetics & Emissions Minimization:** Architected multi-pathway chemical kinetics solver configurations (incorporating thermal and intermediate reaction routes) to predict and minimize pollutant emissions to sub-ppm levels.
-* **Grid Verification & Quality Assurance:** Generated optimized hybrid grids (hexahedral/tetrahedral) and performed systematic grid verification using the **Grid Convergence Index (GCI)** to guarantee numerical accuracy and grid-independent results.
-* **Technical Documentation & Baselines:** Authored comprehensive technical R&D reports, design specifications, and validation documentation to establish formal numerical baselines for combustor design reviews.
+1. **Topological Flame Bifurcation, Aerodynamic Flashback Margins, and Multi-Pathway NOx Scaling in a 3D Swirl-Stabilized 100% Pure Hydrogen Aero-Engine Combustor** (2026)  
+   *Authors:* **P. S. Kamble** (Sole Author)  
+   *Journal:* **Open Transport** (*Under Review — Invited Submission*) / *Combustion and Flame*  
+   *Links:* [arXiv:2609.17600](https://arxiv.org/abs/2609.17600) | [Figshare DOI: 10.6084/m9.figshare.33684790](https://doi.org/10.6084/m9.figshare.33684790) | [GitHub Code](https://github.com/Prashantsk45/Hydrogen-Aero-Engine-Combustor)
+
+2. **Physics-Informed Neural Networks for 3D Aerodynamic and Reacting Flow Reconstruction in a Hydrogen Swirl Aero-Engine Combustor (DA-PINN)** (2026)  
+   *Authors:* **P. S. Kamble** (Sole Author)  
+   *Journal:* **Physical Review Fluids** (*Under Review*) / SSRN Electronic Journal  
+   *Links:* [SSRN DOI: 10.2139/ssrn.7539041](https://doi.org/10.2139/ssrn.7539041) | [Figshare DOI: 10.6084/m9.figshare.33986668](https://doi.org/10.6084/m9.figshare.33986668) | [GitHub Code](https://github.com/Prashantsk45/PINN_NEW)
+
+3. **Design and Dynamic Performance Analysis of Functionalized Carbon Nanotube–Natural Rubber Composites for Aircraft Landing Gear Shock Absorber Disks** (2026)  
+   *Authors:* **P. S. Kamble** (First Author), M. Dhawan, et al.  
+   *Journal:* **Composite Structures** (*Elsevier, Under Review*) / SSRN Electronic Journal  
+   *Links:* [SSRN DOI: 10.2139/ssrn.7539139](https://doi.org/10.2139/ssrn.7539139) | [Figshare DOI: 10.6084/m9.figshare.33891934](https://doi.org/10.6084/m9.figshare.33891934) | [GitHub Code](https://github.com/Prashantsk45/CNT-Rubber-Aircraft-Landing-Gear)
+
+4. **Project Setu: 3D Multi-Physics Design and Scaled Structural Analysis for a Relativistic Lightsail Architecture** (2026)  
+   *Authors:* **P. S. Kamble** (Sole Author)  
+   *Research Area:* Interstellar Beamed Photonic Propulsion  
+   *Links:* [arXiv:2609.06156](https://arxiv.org/abs/2609.06156) | [Figshare DOI: 10.6084/m9.figshare.33476263](https://doi.org/10.6084/m9.figshare.33476263) | [GitHub Code](https://github.com/Prashantsk45/Project-Setu-Relativistic-Lightsail)
+
+---
+
+<h2 align="center">💼 Professional R&amp;D Experience</h2>
+
+#### 🏢 **CFD Engineer – Combustion & Propulsion** @ AeroMyne *(Jan 2025 – Present)*
+* **Architected high-fidelity 3D reacting CFD pipelines** in ANSYS Fluent for hydrogen swirl aero-combustors, integrating non-adiabatic thermal transport and finite-rate chemistry to match laser diagnostic benchmarks within **<0.5% peak temperature error**.
+* **Formulated curvature-corrected SST $k\text{-}\omega$ turbulence closures &amp; Discrete Ordinates (DO) radiation**, capturing complex precessing vortex cores (PVC), vortex breakdown dynamics, and thermal shear layer mixing.
+* **Executed ASME V&amp;V 20 Grid Convergence Index (GCI)** verification protocols across production meshes ($\text{GCI}_{21} = 0.040\%$), quantifying numerical discretization uncertainty to ensure defensible models.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Jun 2024 – Dec 2024)*
-* **Optimized UAV wing and fuselage structures** in CATIA and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 distinct flight configurations.
-* **Conducted 15+ high-fidelity CFD and FEA simulation cycles** (ANSYS Fluent / ANSYS Mechanical), identifying and mitigating structural stress concentrations by **12%** under critical aerodynamic load limits.
-* **Achieved a 5% reduction in overall structural weight** by integrating electronic components directly into load-bearing composite panels, maintaining structural integrity under peak load cases.
-* 📄 **[View Internship Certificate](https://github.com/Prashantsk45/Prashantsk45/blob/main/certificates/INTERNSHIP.pdf)**
+* **Optimized conceptual UAV wing and fuselage geometries** in CATIA V5 and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 flight envelope configurations.
+* **Executed 15+ CFD (ANSYS Fluent) and FEA (ANSYS Mechanical) simulation cycles**, reducing structural stress concentration points by **12%** under peak gust loads.
+* **Achieved a 5% airframe structural weight reduction** by integrating electronic hardware layouts into load-bearing composite panels.
 
 ---
 
-<h2 align="center">🚀 Engineering Projects &amp; Validation Studies</h2>
+<h2 align="center">🔬 Selected Computational R&amp;D Projects</h2>
 
-#### 🌀 **CFD Validation of Turbulent Pipe Flow**
-* **Grid Independence & Near-Wall Study:** Validated turbulent pipe flow (Re = 10,000, L/D = 80) in ANSYS Fluent utilizing structured sweep (ANSYS Meshing) and Hexa blocking (ICEM CFD) meshes.
-* **Turbulence Model Evaluation:** Proved the Shear Stress Transport (SST) k-ω model's superior accuracy (within ~5% error of Haaland's correlation) over the Realizable k-ε model (~11% error).
-* **Viscous Sublayer Resolution:** Conducted y+ ≈ 1 vs. y+ ≈ 10 studies, demonstrating that resolving the viscous sublayer directly (first-cell height y = 0.318 mm) is mandatory for capturing near-wall gradients.
-* **Open Source Repository:** [Link to Pipe Flow Validation](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD) | [Read Project PDF](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD/blob/main/Turbulent-pipe-flow.pdf)
+#### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA** | [GitHub Repository](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
+* **Non-Linear Thermo-Mechanical FEA:** Modeled 3D non-linear contact &amp; bolt pretension ($1,000\,\text{lbf}$) on Inconel 718 flange bolts in ANSYS Mechanical under $4.72\,\text{MPa}$ internal pressure and $500^\circ\text{C}$ thermal gradients.
+* **Safety Margin Verification:** Evaluated contact pressure distributions and bolt stress relaxation across operational ascent trajectories, verifying a **+15% structural safety margin**.
+* **Analytical Closed-Form Parity:** Validated FEA stresses against Lame thick-wall hoop equations ($\sigma_{\theta} = \frac{P r}{t}$) to within **3.73% error**.
 
-#### ✈️ **Compressible Flow Validation in Converging Nozzle (ARN2)**
-* **High-Speed Jet Aerodynamics:** Simulated subsonic jet development (M_jet = 0.51, Re_D = 5,601) from the NASA Glenn Acoustic Reference Nozzle 2 (ARN2) using Fluent's density-based coupled solver.
-* **Turbulence Validation vs. NASA PIV:** Compared Spalart-Allmaras (SA) and SST k-ω predictions against NASA Glenn experimental data. SST k-ω predicted shear layer mixing with a MAPE of 12.06% vs. 27.00% for the SA model.
-* **Structured Grid Study:** Established grid independence across coarse, medium, and fine grids, showing SST's extreme robustness (0.73% mean velocity difference between Coarse and Fine grids).
-* **Open Source Repository:** [Link to Nozzle Validation](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD) | [Read Project PDF](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD/blob/master/ARN2-Nozzle.pdf)
+#### 🌪️ **NASA ARN2 Compressible Nozzle CFD &amp; Acoustic Turbulence** | [GitHub Repository](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD)
+* **High-Speed Subsonic Jet CFD:** Simulated subsonic jet development ($M_{\text{jet}} = 0.51$, $Re_D = 5,601$) from NASA Glenn Acoustic Reference Nozzle 2 using Fluent density-based coupled solvers.
+* **PIV Benchmark Validation:** Validated SST $k\text{-}\omega$ turbulence against NASA PIV experimental data (**12.06% MAPE**), establishing grid independence across structured hex meshes.
 
-#### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA**
-* **Non-Linear Structural FEA:** Conducted high-fidelity 3D structural analysis on the bolted flange joint connecting the F-1 engine's mid and lower nozzle sections in ANSYS Mechanical.
-* **Ascent Load Cases:** Modeled stress distributions, structural deformation, and joint separation risks under critical ascent pressure loads (up to 4.72 MPa) and high thermal gradients (up to 500°C).
-* **Pretension & Safety Margins:** Evaluated bolt pretension parameters and stress relaxation of Inconel 718 bolts, verifying safety margins against hot-gas leakage.
-* **Open Source Repository:** [Link to FEA Project](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
-
-#### 📊 **SpaceX Falcon 9 Landing Success Prediction**
-* **Machine Learning Pipelines:** Developed and optimized Classification Models (SVM, Decision Trees, KNN, Logistic Regression) using **scikit-learn** and **TensorFlow** to predict booster reuse landing success with **89% accuracy**.
-* **Data Engineering & Wrangling:** Extracted launch data via SpaceX REST API and web-scraped Wikipedia, preprocessing 18 core features (payload mass, launch site, orbit trajectory) using SQL and Pandas.
-* **Interactive Geo-Visualization:** Built a dashboard in **Plotly Dash** and mapped launch sites with success heatmaps in **Folium** to discover key geospatial features affecting booster landings.
-* **Live Case Study:** [Link to Landing Success Case Study](https://prashantsk45.github.io/projects/falcon9_landing_analysis.html)
-
----
-
-<h2 align="center">📚 R&amp;D Publications &amp; Preprints</h2>
-
-<div align="center">
-  <table style="width:100%; border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🔥 3D Pure Hydrogen Aero-Engine Combustor</h3>
-        <i>Open Transport (Under Review — Invited Submission) | 2026</i><br><br>
-        3D CFD investigation of aerothermal holding, flame bifurcation (M-flame to V-flame), wall flashback margins (AFMI &gt; 3.42), and multi-pathway NO<sub>x</sub> kinetics across a flight throttle envelope (&Phi; = 0.55–1.00).
-        <br><br>
-        📄 <a href="https://arxiv.org/abs/2609.17600" target="_blank"><b>arXiv Preprint</b></a> | 
-        💾 <a href="https://doi.org/10.6084/m9.figshare.33684790" target="_blank"><b>Figshare Dataset</b></a> | 
-        💻 <a href="https://github.com/Prashantsk45/Hydrogen-Aero-Engine-Combustor" target="_blank"><b>Code Repository</b></a>
-      </td>
-      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🧠 DA-PINN for 3D Reacting Swirl Combustor</h3>
-        <i>Physical Review Fluids (Under Review) | SSRN Preprint | 2026</i><br><br>
-        Physics-informed neural network (4D Fourier-ResNet) enforcing continuous Favre-RANS momentum and ReLoBRaLo loss balancing, delivering <b>&gt;4,500&times; inference speedup</b> and <b>&gt;7,000&times; data compression</b>.
-        <br><br>
-        📄 <a href="https://doi.org/10.2139/ssrn.7539041" target="_blank"><b>SSRN Preprint</b></a> | 
-        💾 <a href="https://doi.org/10.6084/m9.figshare.33986668" target="_blank"><b>Figshare Dataset</b></a> | 
-        💻 <a href="https://github.com/Prashantsk45/PINN_NEW" target="_blank"><b>Code Repository</b></a>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🛞 f-MWCNT Natural Rubber Landing Gear Disks</h3>
-        <i>Composite Structures (Elsevier, Under Review) | SSRN Preprint | 2026</i><br><br>
-        Silane-grafted CNT/NR composite shock absorber disks, 3rd-order Yeoh hyperelastic constitutive fitting, and 3D ANSYS explicit drop impact certified under FAA FAR Part 23.725 (3.46 G &le; 3.50 G ceiling).
-        <br><br>
-        📄 <a href="https://doi.org/10.2139/ssrn.7539139" target="_blank"><b>SSRN Preprint</b></a> | 
-        💾 <a href="https://doi.org/10.6084/m9.figshare.33891934" target="_blank"><b>Figshare Dataset</b></a> | 
-        💻 <a href="https://github.com/Prashantsk45/CNT-Rubber-Aircraft-Landing-Gear" target="_blank"><b>Code Repository</b></a>
-      </td>
-      <td width="50%" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🚀 Project Setu: Relativistic Lightsail Architecture</h3>
-        <i>Interstellar Propulsion R&D | arXiv Preprint | 2026</i><br><br>
-        3D multi-physics framework coupling 3D Maxwell FDTD wave optics (99.78% reflectance), Stefan-Boltzmann thermal radiation, and non-linear shell FEA under 100 GW laser array for 0.20c relativistic transit.
-        <br><br>
-        📄 <a href="https://arxiv.org/abs/2609.06156" target="_blank"><b>arXiv Preprint</b></a> | 
-        💾 <a href="https://doi.org/10.6084/m9.figshare.33476263" target="_blank"><b>Figshare Dataset</b></a> | 
-        💻 <a href="https://github.com/Prashantsk45/Project-Setu-Relativistic-Lightsail" target="_blank"><b>Code Repository</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
+#### 🧪 **Turbulent Pipe Flow &amp; Viscous Sublayer Resolution ($y^+ \approx 1$)** | [GitHub Repository](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD)
+* **Near-Wall Turbulence Resolution:** Resolved $y^+ \approx 1$ viscous sublayer gradients ($y = 0.318\,\text{mm}$) across $Re = 10,000$ pipe flows in ANSYS Fluent utilizing ICEM CFD hex blocking.
+* **Analytical Correlation Validation:** Validated friction factors and velocity profiles within **3–5%** of Haaland analytical correlations and empirical turbulent pipe benchmarks.
 
 ---
 
 <h2 align="center">📊 GitHub Activity &amp; Metrics</h2>
 
 <div align="center">
-  <img src="generated/github-stats.svg" alt="GitHub Stats" />
-  <img src="generated/github-streak.svg" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=60&v=2&hide=Jupyter%20Notebook" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashantsk45&layout=compact&theme=tokyonight&cache_seconds=60&v=2" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
