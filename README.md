@@ -65,7 +65,11 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I am an Aerospace Research Engineer specializing in **reacting flow computational fluid dynamics (CFD)**, **100% pure hydrogen swirl combustion**, **Physics-Informed Neural Networks (DA-PINN)**, and **non-linear hyperelastic structural mechanics**. Demonstrates rigorous expertise in multi-physics solver development, ASME V&amp;V 20 grid verification, and scientific machine learning, supported by 4 first-author peer-reviewed preprints/manuscripts and open-access archived research datasets (Figshare).
+I am an Aerospace Research Engineer specializing in **reacting flow computational fluid dynamics (CFD)**, **100% pure hydrogen swirl combustion**, **Physics-Informed Neural Networks (DA-PINN)**, and **non-linear hyperelastic structural mechanics**. My research bridges multi-physics solver development, ASME V&amp;V 20 grid verification, and scientific machine learning to accelerate propulsion design and extreme-environment aerospace simulation.
+
+* 🔬 **Core Research Thrusts:** Reacting CFD & Hydrogen Combustion, Scientific AI / Physics-Informed Neural Networks (PINNs), Hyperelastic Finite Element Analysis, and ASME V&V 20 Verification & Validation.
+* 📄 **Scholarly Output:** 4 peer-reviewed manuscripts & preprints under review (*Open Transport*, *Physical Review Fluids*, *Composite Structures*, *arXiv*) backed by open-access Figshare datasets.
+* 🎯 **Academic Trajectory:** Direct PhD Candidate in Aerospace Engineering & Computational Fluid Dynamics / Scientific Computing (ETH Zürich, EPFL, TU Delft).
 
 ---
 
