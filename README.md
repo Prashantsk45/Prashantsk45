@@ -160,7 +160,7 @@ I am an Aerospace Research Engineer specializing in **reacting flow computationa
 
 1. **Topological Flame Bifurcation, Aerodynamic Flashback Margins, and Multi-Pathway NOx Scaling in a 3D Swirl-Stabilized 100% Pure Hydrogen Aero-Engine Combustor** (2026)  
    *Authors:* **P. S. Kamble** (Sole Author)  
-   *Journal:* **Open Transport** (*Under Review — Invited Submission*) / *Combustion and Flame*  
+   *Journal:* **Open Transport** (*Under Review — Invited Submission*)  
    *Links:* [arXiv:2609.17600](https://arxiv.org/abs/2609.17600) | [Figshare DOI: 10.6084/m9.figshare.33684790](https://doi.org/10.6084/m9.figshare.33684790) | [GitHub Code](https://github.com/Prashantsk45/Hydrogen-Aero-Engine-Combustor)
 
 2. **Physics-Informed Neural Networks for 3D Aerodynamic and Reacting Flow Reconstruction in a Hydrogen Swirl Aero-Engine Combustor (DA-PINN)** (2026)  
