@@ -3,9 +3,23 @@
 </p>
 
 <div align="center">
-  <a href="https://prashantsk45.github.io">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Prashant%20Kamble&description=CFD%20Engineer%20%E2%80%93%20Combustion%20%26%20Propulsion%20at%20AeroMyne%2C%20specializing%20in%20Reacting%20Flows%2C%20PINNs%2C%20and%20Aerospace%20Simulation.&image=https%3A%2F%2Fgithub.com%2FPrashantsk45.png&backgroundColor=%23f0f3ff&colorPattern=%23e0e6ff&linkedin=prashant-kamble272&github=Prashantsk45&instagram=itz.joyboy" alt="Prashant Kamble's Profile Card" />
-  </a>
+  <table style="border: 1px solid rgba(0,240,255,0.3); border-radius: 12px; background-color: #0f172a; padding: 20px; width: 100%;">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Prashantsk45/Prashantsk45/main/assets/prashant_profile.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f0ff; object-fit: cover;" alt="Prashant Suresh Kamble" />
+      </td>
+      <td align="left" style="padding-left: 15px;">
+        <h2 style="color: #ffffff; margin: 0; font-size: 22px;">Prashant Suresh Kamble</h2>
+        <h4 style="color: #00f0ff; margin: 4px 0 10px 0;">CFD Engineer – Combustion &amp; Propulsion @ AeroMyne</h4>
+        <p style="color: #94a3b8; margin: 0; font-size: 14px;">Specializing in <b>3D Reacting Flow CFD</b>, <b>100% Pure Hydrogen Swirl Combustion</b>, <b>Physics-Informed Neural Networks (DA-PINN)</b>, and <b>Non-Linear Mechanics</b>.</p>
+        <p style="margin-top: 10px;">
+          <a href="https://prashantsk45.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+          <a href="https://orcid.org/0009-0005-4228-3795" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--4228--3795-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+          <a href="https://arxiv.org/abs/2609.17600" target="_blank"><img src="https://img.shields.io/badge/arXiv-Preprints-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h1 align="center">Hello &nbsp;<a href="https://prashantsk45.github.io"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38"></a> , I'm Prashant Kamble</h1>
