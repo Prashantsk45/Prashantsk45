@@ -185,7 +185,7 @@ I am an Aerospace Research Engineer specializing in **reacting flow computationa
 #### 🏢 **CFD Engineer – Combustion & Propulsion** @ AeroMyne *(Jan 2025 – Present)*
 * **Architected high-fidelity 3D reacting CFD pipelines** in ANSYS Fluent for hydrogen swirl aero-combustors, integrating non-adiabatic thermal transport and finite-rate chemistry to match laser diagnostic benchmarks within **<0.5% peak temperature error**.
 * **Formulated curvature-corrected SST $k\text{-}\omega$ turbulence closures &amp; Discrete Ordinates (DO) radiation**, capturing complex precessing vortex cores (PVC), vortex breakdown dynamics, and thermal shear layer mixing.
-* **Executed ASME V&amp;V 20 Grid Convergence Index (GCI)** verification protocols across production meshes ($\text{GCI}_{21} = 0.040\%$), quantifying numerical discretization uncertainty to ensure defensible models.
+* **Executed ASME V&amp;V 20 Grid Convergence Index (GCI)** verification protocols across production meshes ((GCI₂₁ = 0.040%)), quantifying numerical discretization uncertainty to ensure defensible models.
 
 #### 🏢 **Aircraft Design Intern** @ Jet Aerospace *(Jun 2024 – Dec 2024)*
 * **Optimized conceptual UAV wing and fuselage geometries** in CATIA V5 and SolidWorks, improving aerodynamic lift-to-drag (L/D) ratios by **8%** across 5 flight envelope configurations.
@@ -197,16 +197,16 @@ I am an Aerospace Research Engineer specializing in **reacting flow computationa
 <h2 align="center">🔬 Selected Computational R&amp;D Projects</h2>
 
 #### 🚀 **Saturn V F-1 Nozzle Bolted Joint FEA** | [GitHub Repository](https://github.com/Prashantsk45/Saturn-V-F1-Nozzle-Joint-FEA)
-* **Non-Linear Thermo-Mechanical FEA:** Modeled 3D non-linear contact &amp; bolt pretension ($1,000\,\text{lbf}$) on Inconel 718 flange bolts in ANSYS Mechanical under $4.72\,\text{MPa}$ internal pressure and $500^\circ\text{C}$ thermal gradients.
+* **Non-Linear Thermo-Mechanical FEA:** Modeled 3D non-linear contact &amp; bolt pretension ($11,000 lbf) on Inconel 718 flange bolts in ANSYS Mechanical under $44.72 MPa internal pressure and $500500°C thermal gradients.
 * **Safety Margin Verification:** Evaluated contact pressure distributions and bolt stress relaxation across operational ascent trajectories, verifying a **+15% structural safety margin**.
-* **Analytical Closed-Form Parity:** Validated FEA stresses against Lame thick-wall hoop equations ($\sigma_{\theta} = \frac{P r}{t}$) to within **3.73% error**.
+* **Analytical Closed-Form Parity:** Validated FEA stresses against Lame thick-wall hoop equations (σ_θ = P·r / t) to within **3.73% error**.
 
 #### 🌪️ **NASA ARN2 Compressible Nozzle CFD &amp; Acoustic Turbulence** | [GitHub Repository](https://github.com/Prashantsk45/ARN2-Nozzle-Compressible-CFD)
-* **High-Speed Subsonic Jet CFD:** Simulated subsonic jet development ($M_{\text{jet}} = 0.51$, $Re_D = 5,601$) from NASA Glenn Acoustic Reference Nozzle 2 using Fluent density-based coupled solvers.
+* **High-Speed Subsonic Jet CFD:** Simulated subsonic jet development ($M_M_jet = 0.51, $Re_DRe_D = 5,601) from NASA Glenn Acoustic Reference Nozzle 2 using Fluent density-based coupled solvers.
 * **PIV Benchmark Validation:** Validated SST $k\text{-}\omega$ turbulence against NASA PIV experimental data (**12.06% MAPE**), establishing grid independence across structured hex meshes.
 
-#### 🧪 **Turbulent Pipe Flow &amp; Viscous Sublayer Resolution ($y^+ \approx 1$)** | [GitHub Repository](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD)
-* **Near-Wall Turbulence Resolution:** Resolved $y^+ \approx 1$ viscous sublayer gradients ($y = 0.318\,\text{mm}$) across $Re = 10,000$ pipe flows in ANSYS Fluent utilizing ICEM CFD hex blocking.
+#### 🧪 **Turbulent Pipe Flow &amp; Viscous Sublayer Resolution ($yy⁺ ≈ 1)** | [GitHub Repository](https://github.com/Prashantsk45/Turbulent-pipe-flow-CFD)
+* **Near-Wall Turbulence Resolution:** Resolved $yy⁺ ≈ 1 viscous sublayer gradients ($yy = 0.318 mm) across $ReRe = 10,000 pipe flows in ANSYS Fluent utilizing ICEM CFD hex blocking.
 * **Analytical Correlation Validation:** Validated friction factors and velocity profiles within **3–5%** of Haaland analytical correlations and empirical turbulent pipe benchmarks.
 
 ---
