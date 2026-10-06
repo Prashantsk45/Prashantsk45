@@ -4,18 +4,11 @@ name: Generate Profile Stats
   push:
     branches:
       - main
-    paths-ignore:
-      - 'generated/**'
-      - 'README.md'
   repository_dispatch:
     types: [update_stats]
   schedule:
     - cron: "0 0,12 * * *"
   workflow_dispatch:
-
-concurrency:
-  group: profile-stats
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -39,17 +32,16 @@ jobs:
       - name: Generate SVGs
         env:
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python generate_profile_stats.py
 
       - name: Commit and Push Changes
         env:
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Prashantsk45"
           git config --global user.email "Prashantsk.272@gmail.com"
+          # Loop to handle any simultaneous pushes without merge conflicts
           for i in {1..5}; do
             git fetch origin main
             git reset --hard origin/main
@@ -59,7 +51,7 @@ jobs:
               echo "No changes to commit."
               exit 0
             fi
-            git commit -m "Auto-update profile statistics [skip ci]"
+            git commit -m "Auto-update profile statistics"
             if git push origin main; then
               echo "Push successful!"
               exit 0
@@ -69,4 +61,3 @@ jobs:
           done
           echo "Failed to push stats card after 5 attempts."
           exit 1
-
