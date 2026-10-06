@@ -269,11 +269,11 @@ def generate_svgs(stats):
 
 if __name__ == "__main__":
     # Get user token and username from env
-    TOKEN = os.environ.get("STATS_TOKEN")
+    TOKEN = os.environ.get("STATS_TOKEN") or os.environ.get("GITHUB_TOKEN")
     USERNAME = "Prashantsk45"
     
     if not TOKEN:
-        print("Error: STATS_TOKEN environment variable not set.")
+        print("Error: Neither STATS_TOKEN nor GITHUB_TOKEN environment variable set.")
         exit(1)
         
     try:
