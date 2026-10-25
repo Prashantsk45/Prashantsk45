@@ -85,7 +85,7 @@
 I am an Aerospace Research Engineer specializing in **reacting flow computational fluid dynamics (CFD)**, **100% pure hydrogen swirl combustion**, **Physics-Informed Neural Networks (DA-PINN)**, and **non-linear hyperelastic structural mechanics**. My research bridges multi-physics solver development, ASME V&amp;V 20 grid verification, and scientific machine learning to accelerate propulsion design and extreme-environment aerospace simulation.
 
 * 🔬 **Core Research Thrusts:** Reacting CFD & Hydrogen Combustion, Scientific AI / Physics-Informed Neural Networks (PINNs), Hyperelastic Finite Element Analysis, and ASME V&V 20 Verification & Validation.
-* 📄 **Scholarly Output:** 4 peer-reviewed manuscripts & preprints under review (*Open Transport*, *Physical Review Fluids*, *Composite Structures*, *arXiv*) backed by open-access Figshare datasets.
+* 📄 **Scholarly Output:** 4 peer-reviewed manuscripts & preprints (*Open Transport Phenomena*, *Physics of Fluids*, *Composite Structures*, *Acta Astronautica*) backed by open-access Figshare datasets.
 
 ---
 
@@ -174,14 +174,14 @@ I am an Aerospace Research Engineer specializing in **reacting flow computationa
 
 <h2 align="center">📚 Peer-Reviewed Publications &amp; Preprints</h2>
 
-1. **Topological Flame Bifurcation, Aerodynamic Flashback Margins, and Multi-Pathway NOx Scaling in a 3D Swirl-Stabilized 100% Pure Hydrogen Aero-Engine Combustor** (2026)  
+1. **Flame Bifurcation, Flashback Margins, and NOx Scaling in a Swirl-Stabilized Hydrogen Aero-Engine Combustor** (2026)  
    *Authors:* **P. S. Kamble** (Sole Author)  
-   *Journal:* **Open Transport** (*Under Review — Invited Submission*)  
+   *Journal:* **Open Transport Phenomena** (*Accepted Oct 14, 2026*)  
    *Links:* [arXiv:2609.17600](https://arxiv.org/abs/2609.17600) | [Figshare DOI: 10.6084/m9.figshare.33684790](https://doi.org/10.6084/m9.figshare.33684790) | [GitHub Code](https://github.com/Prashantsk45/Hydrogen-Aero-Engine-Combustor)
 
 2. **Physics-Informed Neural Networks for 3D Aerodynamic and Reacting Flow Reconstruction in a Hydrogen Swirl Aero-Engine Combustor (DA-PINN)** (2026)  
    *Authors:* **P. S. Kamble** (Sole Author)  
-   *Journal:* **Physical Review Fluids** (*Under Review*) / SSRN Electronic Journal  
+   *Journal:* **Physics of Fluids** (*AIP Publishing, Under Review*) / SSRN Electronic Journal  
    *Links:* [SSRN DOI: 10.2139/ssrn.7539041](https://doi.org/10.2139/ssrn.7539041) | [Figshare DOI: 10.6084/m9.figshare.33986668](https://doi.org/10.6084/m9.figshare.33986668) | [GitHub Code](https://github.com/Prashantsk45/PINN_NEW)
 
 3. **Design and Dynamic Performance Analysis of Functionalized Carbon Nanotube–Natural Rubber Composites for Aircraft Landing Gear Shock Absorber Disks** (2026)  
@@ -191,7 +191,7 @@ I am an Aerospace Research Engineer specializing in **reacting flow computationa
 
 4. **Project Setu: 3D Multi-Physics Design and Scaled Structural Analysis for a Relativistic Lightsail Architecture** (2026)  
    *Authors:* **P. S. Kamble** (Sole Author)  
-   *Research Area:* Interstellar Beamed Photonic Propulsion  
+   *Journal:* **Acta Astronautica** (*Elsevier, Under Review*)  
    *Links:* [arXiv:2609.06156](https://arxiv.org/abs/2609.06156) | [Figshare DOI: 10.6084/m9.figshare.33476263](https://doi.org/10.6084/m9.figshare.33476263) | [GitHub Code](https://github.com/Prashantsk45/Project-Setu-Relativistic-Lightsail)
 
 ---
